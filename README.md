@@ -1,7 +1,7 @@
 # dataAnalyseProjetBlanc
 PROJET BLANC DATA ANALYSE
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dataAnalyseProjetBlanc/main?labpath=index.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AbdoulAzizBaoula/dataAnalyseProjetBlanc/main?labpath=index.ipynb)
 
 ## CECI EST UN MINI PROJET
 
